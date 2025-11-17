@@ -14,34 +14,35 @@
         "tab": "React Native",
         "groups": [
           {
-          "navigation": {
-            "dropdowns": [
-              {
-        "dropdown": "Documentation",
-        "icon": "book-open",
-        "pages": [
-          "quickstart",
-          "development",
-          "navigation"
-        ]
-      },
-      {
-        "dropdown": "API reference",
-        "icon": "square-terminal",
-        "pages": [
-          "api-reference/get",
-          "api-reference/post",
-          "api-reference/delete"
-        ]
-      },
-      {
-        "dropdown": "Blog",
-        "href": "https://external-link.com/blog"
-      }
-            ]
-          }
+            "group": "Documentation",
+            "navigation": {
+              "dropdowns": [
+                {
+                  "dropdown": "Documentation",
+                  "icon": "book-open",
+                  "pages": [
+                    "quickstart",
+                    "development",
+                    "navigation"
+                  ]
+                },
+                {
+                  "dropdown": "API reference",
+                  "icon": "square-terminal",
+                  "pages": [
+                    "api-reference/get",
+                    "api-reference/post",
+                    "api-reference/delete"
+                  ]
+                },
+                {
+                  "dropdown": "Blog",
+                  "href": "https://external-link.com/blog"
+                }
+              ]
+            }
           },
-            {
+          {
             "group": "Getting started",
             "pages": [
               "index",
@@ -95,10 +96,7 @@
           }
         ]
       }
-      
     ]
-    
-    
   },
   "logo": {
     "light": "/logo/light.svg",
@@ -119,15 +117,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {

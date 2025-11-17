@@ -70,7 +70,7 @@
       
     ],
 
-    "navigation": {
+   
       "dropdowns": [
         {
           "dropdown": "test 1",
@@ -95,7 +95,7 @@
           "href": "https://external-link.com/blog"
         }
       ]
-    }
+    
     
   },
   "logo": {

@@ -66,22 +66,37 @@
             ]
           }
         ]
-      },
-     
-      {
-        "tab": "Resources",
-        "groups": [
-          {
-            "group": "General",
-            "pages": [
-              "resources/overview",
-              "resources/tools"
-            ]
-          }
-        ]
       }
       
     ],
+
+    "navigation": {
+    "dropdowns": [
+      {
+        "dropdown": "Documentation",
+        "icon": "book-open",
+        "pages": [
+          "quickstart",
+          "development",
+          "navigation"
+        ]
+      },
+      {
+        "dropdown": "API reference",
+        "icon": "square-terminal",
+        "pages": [
+          "api-reference/get",
+          "api-reference/post",
+          "api-reference/delete"
+        ]
+      },
+      {
+        "dropdown": "Blog",
+        "href": "https://external-link.com/blog"
+      }
+    ]
+  },
+    
     "global": {
       "anchors": [
         {

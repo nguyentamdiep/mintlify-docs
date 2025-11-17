@@ -71,31 +71,31 @@
     ],
 
     "navigation": {
-    "dropdowns": [
-      {
-        "dropdown": "Documentation",
-        "icon": "book-open",
-        "pages": [
-          "quickstart",
-          "development",
-          "navigation"
-        ]
-      },
-      {
-        "dropdown": "API reference",
-        "icon": "square-terminal",
-        "pages": [
-          "api-reference/get",
-          "api-reference/post",
-          "api-reference/delete"
-        ]
-      },
-      {
-        "dropdown": "Blog",
-        "href": "https://external-link.com/blog"
-      }
-    ]
-  },
+      "dropdowns": [
+        {
+          "dropdown": "test 1",
+          "icon": "book-open",
+          "pages": [
+            "quickstart",
+            "development",
+            "navigation"
+          ]
+        },
+        {
+          "dropdown": "test 2",
+          "icon": "square-terminal",
+          "pages": [
+            "api-reference/get",
+            "api-reference/post",
+            "api-reference/delete"
+          ]
+        },
+        {
+          "dropdown": "test 3",
+          "href": "https://external-link.com/blog"
+        }
+      ]
+    },
     
     "global": {
       "anchors": [
